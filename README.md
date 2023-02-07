@@ -19,9 +19,13 @@ It is important to note that this model is only a tool for prediction and should
 
 ### Dependencies
 Python3
+
 scikit-learn
+
 numpy
+
 pandas
+
 
 ### References
 The dataset used in this project can be found at https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
